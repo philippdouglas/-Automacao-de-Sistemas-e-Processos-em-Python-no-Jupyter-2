@@ -14,7 +14,7 @@ Isso representa uma perda de milhões para a empresa.
 
 O que a empresa precisa fazer para resolver isso?
 
-Base de Dados: 🚧🚧🚧🚧🚧🚧🚧 <br>
+Base de Dados: https://drive.google.com/file/d/1HDvzyXL7pjZloaUNYeWvPtDsszmyo_fq/view?usp=sharing <br>
 Link Original do Kaggle: https://www.kaggle.com/radmirzosimov/telecom-users-dataset
 
 
